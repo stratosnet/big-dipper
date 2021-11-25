@@ -47,7 +47,7 @@ Transactions.rawCollection().createIndex({
     "tx.value.msg.value.delegator_address":1,
     "tx.value.msg.type":1,
     "code": 1
-},{partialFilterExpression: {code:{$exists: true}}})
+})
 
 ValidatorSets.rawCollection().createIndex({block_height:-1});
 
