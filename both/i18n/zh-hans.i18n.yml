@@ -23,7 +23,7 @@ common:
     cancel: '取消'
     retry: '重试'
 navbar:
-    siteName: '北斗'
+    siteName: 'Stratos Explorer'
     validators: '验证人'
     blocks: '区块'
     transactions: '交易'
