@@ -41,6 +41,8 @@ navbar:
     portuguese: "Português"
     license: 'LICENZA'
     forkMe: 'Forkami!'
+    policy: 'Politica Sulla Riservatezza'
+    contact: 'Contatto'
 consensus:
     consensusState: 'Stato del consenso'
     round: 'Round'

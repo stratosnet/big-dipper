@@ -40,6 +40,8 @@ navbar:
     portuguese: "Português"
     license: 'LICENSE'
     forkMe: 'Fork me!'
+    policy: '隱私政策'
+    contact: '聯繫我們'
 consensus:
     consensusState: '共識狀態'
     round: '輪數'

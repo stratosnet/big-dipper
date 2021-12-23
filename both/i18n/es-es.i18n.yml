@@ -40,6 +40,8 @@ navbar:
     portuguese: "Português"
     license: 'LICENCIA'
     forkMe: 'Fork me!'
+    policy: 'Política de Privacidad'
+    contact: 'Contacto'
 consensus:
     consensusState: 'Estado de consenso'
     round: 'Ronda'
