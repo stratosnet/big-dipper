@@ -29,7 +29,7 @@ Meteor.methods({
             
                 }
                 catch(e) {
-                    console.log("Getting transaction %o: %o", hash, e);
+                    console.log("Getting transaction %o: %o", transactions[i].txhash, e);
                 }
             }
             if (bulkTransactions.length > 0){
