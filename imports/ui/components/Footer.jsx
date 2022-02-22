@@ -20,7 +20,7 @@ export default class Footer extends React.Component {
         return (
             <div>
                 <Navbar color="light" light expand="md" fixed="bottom" id="footer" className="d-none d-md-flex">
-                    <span className="text-muted"><a href="https://www.thestratos.org/privacy-policy.html" target="_blank"><T>navbar.policy</T></a> &copy;2021 Stratos </span>
+                    <span className="text-muted"><a href="https://www.thestratos.org/privacy-policy.html" target="_blank"><T>navbar.policy</T></a> &copy;2022 Stratos </span>
                     <Nav className="ml-auto" navbar>
                         <NavItem>
                             <NavLink href="https://www.thestratos.org/contact.html" target="_blank"><T>navbar.contact</T> <i className="fa fa-phone-square"></i></NavLink>
@@ -49,7 +49,7 @@ export default class Footer extends React.Component {
                         </NavItem>
                     </Nav>
                 </Navbar>
-            </div>  
+            </div>
         );
     }
 }
