@@ -24,7 +24,7 @@ common:
     retry: 'Spróbuj ponownie'
     rewards: 'Nagrody'
 navbar:
-    siteName: 'Wielki Wóz'
+    siteName: 'Stratos Explorer'
     validators: 'Walidatorzy'
     blocks: 'Bloki'
     transactions: 'Transakcje'
@@ -41,6 +41,8 @@ navbar:
     portuguese: "Português"
     license: 'LICENCJA'
     forkMe: 'Fork me!'
+    policy: 'Polityka Prywatności '
+    contact: 'Kontakt'
 consensus:
     consensusState: 'Status Konsensusu'
     round: 'Runda'

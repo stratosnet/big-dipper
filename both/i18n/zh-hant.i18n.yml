@@ -23,7 +23,7 @@ common:
     cancel: '取消'
     retry: '重試'
 navbar:
-    siteName: '北斗'
+    siteName: 'Stratos Explorer'
     validators: '驗證人'
     blocks: '區塊'
     transactions: '交易'
@@ -40,6 +40,8 @@ navbar:
     portuguese: "Português"
     license: 'LICENSE'
     forkMe: 'Fork me!'
+    policy: '隱私政策'
+    contact: '聯繫我們'
 consensus:
     consensusState: '共識狀態'
     round: '輪數'

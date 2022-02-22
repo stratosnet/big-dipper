@@ -24,7 +24,7 @@ common:
     retry: 'Tentar novamente'
     rewards: 'Recompensas'
 navbar:
-    siteName: 'BIG DIPPER'
+    siteName: 'Stratos Explorer'
     validators: 'Validadores'
     blocks: 'Blocos'
     transactions: 'Transações'
@@ -40,6 +40,8 @@ navbar:
     portuguese: "Português"
     license: 'LICENÇA'
     forkMe: 'Fork me!'
+    policy: 'Política de Privacidade '
+    contact: 'Contato'
 consensus:
     consensusState: 'Estado de consenso'
     round: 'Rodada'
